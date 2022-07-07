@@ -5,5 +5,4 @@
 layout: Post
 permalink: /notes
 title: List of notes
-feedformat: row
 ---
