@@ -123,7 +123,7 @@ h6 {
 }
 
 p {
-    font-size: var(--text-m);
+    font-size: var(--text-s);
     line-height: var(--text-leading-normal);
     font-weight: var(--text-normal);
     margin: 0 0 1em 0;
