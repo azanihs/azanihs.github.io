@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: Post
-permalink: /notes
-title: List of notes
+permalink: /
+title: Jekyll Garden
 ---
