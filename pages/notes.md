@@ -5,4 +5,4 @@ feedformat: card
 title: Digital Garden
 ---
 
-List of notes
+The feed page shows all notes from `notes` folder.
