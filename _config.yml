@@ -57,7 +57,7 @@ preferences:
 encoding: utf-8
 
 # Build settings
-theme: null
+theme: light
 plugins:
   - jekyll-feed 
   - jekyll-sitemap 
