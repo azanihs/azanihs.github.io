@@ -1,5 +1,5 @@
 ---
-title : Write
+title : wite
 feed: show
 date : 08-07-2022
 ---
