@@ -27,7 +27,7 @@ baseurl: ""
 
 # Website Header, Description, Footer year and text.
 # If you are deleting this, make sure you remove it from HTML files too
-heading: Azani's Note # Change this
+heading: Azani's Note 🌱 # Change this
 content: a personal note
 copyright:
   year: © 2022
