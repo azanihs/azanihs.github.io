@@ -4,4 +4,4 @@ feed: show
 date : 09-07-2022
 ---
 
-![](IMG_2766.JPG.jpeg)
+<img src="../../assets/img/7-how-to.png" width="100%">
