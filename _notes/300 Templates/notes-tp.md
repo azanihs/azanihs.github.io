@@ -1,5 +1,5 @@
 ---
-title : 
+title : <% tp.file.title %>
 feed: show
-date : 
+date : <% tp.date.now("DD-MM-YYYY") %>
 ---
