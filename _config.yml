@@ -28,7 +28,7 @@ baseurl: ""
 # Website Header, Description, Footer year and text.
 # If you are deleting this, make sure you remove it from HTML files too
 heading: Azani's Note # Change this
-content: Obsidian ready Jekyll Theme
+content: a personal note
 copyright:
   year: © 2022
   msg: Contents under CC-BY-NC
@@ -57,7 +57,7 @@ preferences:
 encoding: utf-8
 
 # Build settings
-theme: null
+theme: light
 plugins:
   - jekyll-feed
   - jekyll-sitemap
