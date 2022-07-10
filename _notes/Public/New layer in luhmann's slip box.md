@@ -1,5 +1,5 @@
 ---
-title : New layer in luhman's slip box
+title : New layer in luhmann's slip box
 feed: show
 date : 10-07-2022
 ---
