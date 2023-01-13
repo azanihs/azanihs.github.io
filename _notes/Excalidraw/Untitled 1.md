@@ -1,0 +1,18 @@
+- Language learning takes time, to achieve a fluency level
+	- close target language: 6 months
+	- distant target language : 2 years
+- 3 phases of language learning
+	- Beginner
+		- target: able to understand and use basic/simple sentence
+		- approach:
+			- use structured learning materials like book with audio
+			- focus on speaking a lot or listening a lot
+			- take  notes every new words or phrases and review them regularly
+			- allocate 1 hour a day
+	- Intermediate
+		- approach:
+			- listening-walking technique
+			- use natural content
+	- Advance
+		- approach:
+			- talk to native speaker
