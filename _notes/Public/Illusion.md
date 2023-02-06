@@ -6,4 +6,4 @@ date : 28-08-2022
 
 Illusion, deception and deviation from important actions
 
-![[moon.svg]]
+![[assets/img/moon.svg]]
