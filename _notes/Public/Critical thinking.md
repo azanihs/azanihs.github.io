@@ -5,7 +5,7 @@ date : 06-02-2023
 ---
 
 
-- Critical thinking process will produce a writing that:
+- Critical [[Thinking]] process will produce a writing that:
 	- Strong reasoning
 	- Strong Idea
 	- Communicative
@@ -62,4 +62,4 @@ date : 06-02-2023
 		- Addressing the other side of an issue
 		- Making the paper better: [[Critical thinking standards]] & [[Socratic questioning]]
 		- Making it flow
-	- 
+![](/assets/img/1-how-to.png )
