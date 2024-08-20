@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Taking notes includes the process of looking ideas.md",
+                "file": "_notes/Public/Information.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Taking notes includes the process of looking ideas.md",
+                "file": "_notes/Public/Information.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Taking notes includes the process of looking ideas.md",
+                "file": "_notes/Public/Information.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Taking notes includes the process of looking ideas.md"
+                "file": "_notes/Public/Information.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "c06f974aff0cb23e",
   "lastOpenFiles": [
+    "_notes/img/a.png.png",
+    "_notes/img/close.png",
+    "_notes/Public/Sentence diagram.md",
+    "_notes/Public/New layer in luhmann's slip box.md",
+    "_notes/Public/Taking notes includes the process of looking ideas.md",
     "_notes/Public/Socratic questioning.md",
     "_notes/Public/Information overload is not a new phenomenom.md",
     "_notes/Public/Information.md",
