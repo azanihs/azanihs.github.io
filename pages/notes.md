@@ -1,7 +1,7 @@
 ---
 layout: Post
 permalink: /notes
-feedformat: card
+feedformat: list
 title: Digital Garden
 ---
 
