@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "96e1b9cd0892b3e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e13c7bf25527e3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c06f974aff0cb23e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_notes/Public/Taking notes includes the process of looking ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d405992bf4c05c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "add020fe4d75f661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68191d91ecd10799",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f38a31157682c78e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41758819639eb7b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "76ae3b0b08cb83ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "32bc2706cd07696e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24188903afba8814",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_notes/Public/Taking notes includes the process of looking ideas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11036dbdb8f4ddc6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_notes/Public/Taking notes includes the process of looking ideas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3e0f045f80f4528",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9cb8f2104dbcc518",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_notes/Public/Taking notes includes the process of looking ideas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c06f974aff0cb23e",
+  "lastOpenFiles": [
+    "_notes/Public/Socratic questioning.md",
+    "_notes/Public/Information overload is not a new phenomenom.md",
+    "_notes/Public/Information.md",
+    "_notes/Public/Illusion of free time.md",
+    "_notes/Public/Illusion.md",
+    "_notes/Public/elements of reasoning.md",
+    "_notes/Public/Efficiency requires consitency of action.md",
+    "_notes/Public/Critical thinking helps us defense to error.md",
+    "_notes/Public/Card note-taking systems.md",
+    "_posts/2020-03-01-features.md",
+    "pages/index.md",
+    "pages/lists.md",
+    "pages/posts.md",
+    "pages/notes.md"
+  ]
+}
