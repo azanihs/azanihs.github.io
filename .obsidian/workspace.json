@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/slip box system.md",
+                "file": "_notes/Public/Question.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "ee3a8334771cf28b",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/slip box system.md",
+                "file": "_notes/Public/Question.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/slip box system.md",
+                "file": "_notes/Public/Question.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/slip box system.md"
+                "file": "_notes/Public/Question.md"
               }
             }
           }
@@ -143,22 +152,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
   "active": "c06f974aff0cb23e",
   "lastOpenFiles": [
-    "_notes/Public/writing.md",
-    "Luhmann.md",
-    "_notes/Public/New layer in luhmann's slip box.md",
+    "_notes/Public/elements of reasoning.md",
+    "_notes/Public/Question.md",
+    "_notes/Public/Information.md",
+    "_notes/Public/Sentence diagram.md",
+    "_notes/Public/Luhmann.md",
+    "_notes/Public/Untitled.md",
     "_notes/Public/slip box system.md",
+    "_notes/Public/writing.md",
+    "_notes/Public/New layer in luhmann's slip box.md",
     "_notes/Public/Socratic questioning.md",
     "_notes/Public/Taking notes includes the process of looking ideas.md",
     "_notes/Public/The aim of note-taking.md",
     "_notes/Public/Thinking.md",
     "_notes/Public/write.md",
     "_notes/300 Templates/notes-tp.md",
-    "_notes/Public/Sentence diagram.md",
     "_notes/Public/Illusion of free time.md",
     "_notes/Public/Information overload is not a new phenomenom.md",
     "_notes/Public/Illusion.md",
@@ -166,7 +180,6 @@
     "assets/img/moon.svg",
     "assets/img/external-link.svg",
     "assets/img/a.png",
-    "_notes/Public/Information.md",
     "pages/lists.md",
     "pages/index.md",
     "pages/posts.md",
@@ -180,9 +193,6 @@
     "assets/img/4-how-to.png",
     "assets/img/2-how-to.png",
     "assets/img/1-how-to.png",
-    "README.md",
-    "_posts/2020-03-01-features.md",
-    "_posts/2020-03-01-how-to.md",
-    "_notes/Public/elements of reasoning.md"
+    "README.md"
   ]
 }

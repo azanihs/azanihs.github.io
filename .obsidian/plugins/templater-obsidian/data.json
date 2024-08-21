@@ -15,8 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "_notes/300 Templates",
+      "template": "_notes/300 Templates/notes-tp.md"
     }
   ],
   "syntax_highlighting": true,
@@ -25,6 +25,6 @@
     "_notes/300 Templates/notes-tp.md"
   ],
   "startup_templates": [
-    ""
+    "_notes/300 Templates/notes-tp.md"
   ]
 }
