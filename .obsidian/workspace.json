@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Luhmann.md",
+                "file": "_notes/Public/slip box system.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Luhmann.md",
+                "file": "_notes/Public/slip box system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Luhmann.md",
+                "file": "_notes/Public/slip box system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Luhmann.md"
+                "file": "_notes/Public/slip box system.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "68191d91ecd10799",
+  "active": "c06f974aff0cb23e",
   "lastOpenFiles": [
-    "_notes/Public/New layer in luhmann's slip box.md",
+    "_notes/Public/writing.md",
     "Luhmann.md",
+    "_notes/Public/New layer in luhmann's slip box.md",
     "_notes/Public/slip box system.md",
     "_notes/Public/Socratic questioning.md",
     "_notes/Public/Taking notes includes the process of looking ideas.md",
     "_notes/Public/The aim of note-taking.md",
     "_notes/Public/Thinking.md",
     "_notes/Public/write.md",
-    "_notes/Public/writing.md",
     "_notes/300 Templates/notes-tp.md",
     "_notes/Public/Sentence diagram.md",
     "_notes/Public/Illusion of free time.md",

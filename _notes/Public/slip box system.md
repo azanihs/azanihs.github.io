@@ -1,5 +1,5 @@
 ---
-title : Slip box system
+title: slip box system
 feed: show
-date : 10-07-2022
+date: 10-07-2022
 ---

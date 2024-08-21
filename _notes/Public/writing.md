@@ -1,5 +1,5 @@
 ---
-title : Writing
+title: writing
 feed: show
-date : 10-07-2022
+date: 10-07-2022
 ---
