@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/Public/Question.md",
+                "file": "_notes/Public/conclussions.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Public/Question.md",
+                "file": "_notes/Public/conclussions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/Public/Question.md",
+                "file": "_notes/Public/conclussions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/Public/Question.md"
+                "file": "_notes/Public/conclussions.md"
               }
             }
           }
@@ -159,6 +159,14 @@
   "active": "c06f974aff0cb23e",
   "lastOpenFiles": [
     "_notes/Public/elements of reasoning.md",
+    "_notes/Public/conclussions.md",
+    "_notes/Public/implications.md",
+    "_notes/Public/informations.md",
+    "_notes/Public/data.md",
+    "_notes/Public/theories.md",
+    "_notes/Public/assumptions.md",
+    "_notes/Public/purpose.md",
+    "_notes/Public/point of view.md",
     "_notes/Public/Question.md",
     "_notes/Public/Information.md",
     "_notes/Public/Sentence diagram.md",
@@ -180,19 +188,11 @@
     "assets/img/moon.svg",
     "assets/img/external-link.svg",
     "assets/img/a.png",
-    "pages/lists.md",
-    "pages/index.md",
-    "pages/posts.md",
-    "pages/notes.md",
-    "_notes/Public/Critical thinking.md",
-    "assets.md",
-    "_notes/Public/Card note-taking systems.md",
     "_notes/img/close.png",
     "assets/img/7-how-to.png",
     "assets/img/sun.svg",
     "assets/img/4-how-to.png",
     "assets/img/2-how-to.png",
-    "assets/img/1-how-to.png",
-    "README.md"
+    "assets/img/1-how-to.png"
   ]
 }
