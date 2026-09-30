@@ -1,0 +1,23 @@
+---
+title: "Publications"
+listing:
+  id: pubs
+  contents: publications.yml
+  type: table
+  sort: "date desc"
+  fields: [date, title, author, venue, type]
+  field-display-names:
+    venue: "Venue"
+    type: "Type"
+  date-format: "YYYY"
+  filter-ui: true
+  sort-ui: true
+  categories: false
+---
+
+<!-- Add each publication as an entry in publications.yml. -->
+
+A full list is also available on [Google Scholar](https://scholar.google.com/). <!-- TODO: your profile URL -->
+
+::: {#pubs}
+:::

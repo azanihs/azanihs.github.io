@@ -1,0 +1,8 @@
+# One entry per publication. `path` is where the title links to (DOI, PDF, ...).
+# Delete the example below once you have added your own entries.
+- title: "Example paper title (replace me)"
+  author: "M. Azani, Co-author"
+  date: 2026-01-01
+  venue: "Journal or Conference Name"
+  type: "Journal article"
+  path: https://doi.org/10.0000/example
