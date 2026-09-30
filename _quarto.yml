@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Muhammad Azani"      # TODO: check how you want your name shown
+  site-url: https://azanihs.github.io
+  description: "Academic homepage: research, publications, teaching and notes."
+  favicon: images/favicon.svg
+  open-graph: true
+  search: true
+  page-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: notes.qmd
+        text: Notes
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/azanihs
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:you@example.com   # TODO: the email you want public
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Muhammad Azani · Content under CC BY-NC 4.0"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+      dark: [darkly, styles.scss]
+    toc: true
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+
+execute:
+  freeze: auto

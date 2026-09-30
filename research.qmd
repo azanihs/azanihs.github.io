@@ -1,0 +1,22 @@
+---
+title: "Research"
+---
+
+<!-- TODO: describe your research program. Add one section per project or theme. -->
+
+My research focuses on ...
+
+## Current projects
+
+### Project title
+
+A short description of the question, approach and (planned) outputs.
+Collaborators, funding and links to papers or code go here.
+
+### Another project
+
+...
+
+## Datasets and software
+
+- [Repository name](https://github.com/azanihs) --- one-line description.

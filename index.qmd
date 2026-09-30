@@ -1,0 +1,44 @@
+---
+title: "Muhammad Azani"
+subtitle: "Lecturer · Researcher"   # TODO: your position and affiliation
+toc: false
+about:
+  template: trestles
+  # image: images/profile.jpg   # add a photo at images/profile.jpg and uncomment
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:you@example.com   # TODO: the email you want public
+    - icon: github
+      text: GitHub
+      href: https://github.com/azanihs
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/   # TODO: your Scholar profile URL
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/            # TODO: your ORCID iD
+---
+
+<!-- TODO: replace this bio with your own. -->
+
+Hi, I'm Azani. I am a lecturer and researcher. This site collects my research,
+publications, teaching materials and working notes.
+
+## Research interests
+
+- Interest one
+- Interest two
+- Interest three
+
+## Education
+
+**Ph.D. in ...** · University name · Year
+
+**M.Sc. in ...** · University name · Year
+
+**B.Sc. in ...** · University name · Year
+
+## News
+
+- **2026-09** --- Launched this new website built with Quarto.

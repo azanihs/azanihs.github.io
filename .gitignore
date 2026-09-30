@@ -1,6 +1,3 @@
-_site
-.jekyll-cache
-pages/.DS_Store
-pages/tags.md
-_notes/.obsidian
-_notes/Public/.obsidian
+/.quarto/
+/_site/
+.DS_Store
